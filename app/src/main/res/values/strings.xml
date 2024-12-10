@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">RecycleView</string>
+    <string-array name="Texts_for_recycle_view">
+        <item>Android is great</item>
+        <item>Android is awesome</item>
+        <item>Android is fantastic</item>
+        <item>Android is amazing</item>
+        <item>Android is fabulous</item>
+
+    </string-array>
+    <string-array name="Texts_for_recycle_view2">
+    <string name="text6">Android is extraordinary</string>
+    <string name="text7">Android is beautiful</string>
+    <string name="text8">Android is wonderful</string>
+    <string name="text9">Android is terrific</string>
+    <string name="text10">Android is stunning</string>
+    </string-array>
+
+
+
+
+</resources>
